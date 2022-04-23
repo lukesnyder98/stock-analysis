@@ -6,6 +6,6 @@ In Module 2, we created scripts in Microsoft VBA to help Steve analyze a set of 
 
 ## Results
 
-!(2017_Results.png)
+[Analysis results for 2017](/Resources/2017_Results.png)
 
-!(2018_Results.png)
+[Analysis results for 2018](/Resources/2018_Results.png)
