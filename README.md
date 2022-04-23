@@ -6,3 +6,4 @@ In Module 2, we created scripts in Microsoft VBA to help Steve analyze a set of 
 
 ## Results
 
+[Resources/2017_Results.Png]
