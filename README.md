@@ -28,9 +28,9 @@ Since the variables in the original code were converted into arrays, the for loo
 
 Below are the results of running the refactored code for both 2017 and 2018.
 
-![Analysis results for 2017](/Resources/2017_Results.png)
+![Analysis results for 2017](/Resources/VBA_Challenge_2017.png)
 
-![Analysis results for 2018](/Resources/2018_Results.png)
+![Analysis results for 2018](/Resources/VBA_Challenge_2018.png)
 
 In 2017 the stock market performed very well, with almost all of the stocks receiving an increase in total return for the year. Two of the stocks, DQ and SEDG, even nearly doubled their price. However, 2018 saw the opposite outcome. A few of the stocks saw an increase in their total daily volume, but all except for ENPH and RUN saw a decrease in their yearly return, with DQ and JKS seeing more than 60% decreases. This indicates that maybe Steve's parents recommended he invest in DQ stock after looking at its 2017 returns, but they never looked at its 2018 returns.
 
