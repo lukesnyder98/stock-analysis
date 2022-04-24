@@ -44,6 +44,6 @@ In 2017 the stock market performed very well, with almost all of the stocks rece
 
 Comparing these messages confirms that the refactored code runs more quickly for both years than the original code.
 
-##Summary
+## Summary
 
 The advantage of refactoring code is that you follow the DRY rule: Don't Repeat Yourself. Using one block of code (for example a for or while loop) to perform the same action multiple times can help declutter your code and make it run more efficiently. This can be helpful for analyzing very large data sets in a short amount of time. In this case, simplifying the loops to only use one variable in the conditional and using a single variable as the index for all of our arrays was more efficient than making the code re-check the value of i with each if statement. A disadvantage of refactoring code is that automating certain actions using nested for loops and variables can get confusing. You have to make sure that you're using the correct variable or array for every situation, and that all of your data types are matching up. I spent a few hours trying to figure out why the arrays in my refactored code were giving me "Subset out of range" errors, only to realize that I didn't need to give the tickerIndex variable a data type (like Single or Integer) and instead I could initialize it as "tickerIndex = 0".
