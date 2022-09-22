@@ -2,7 +2,7 @@
  
 ## Overview of Project
 
-In this challenge, a VBA script that was used to deliver an analysis of a set of stocks with the click of a button is refactored in order for it to run more efficiently, using arrays and nested for loops.
+In this project, a VBA script that was used to deliver an analysis of a set of stocks with the click of a button is refactored in order for it to run more efficiently, using arrays and nested for loops.
 
 ## Results
 
