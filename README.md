@@ -1,16 +1,16 @@
-# Module 2 Challenge
+# Analyzing Stocks with VBA
  
 ## Overview of Project
 
-In Module 2, we created scripts in Microsoft VBA to help Steve analyze a set of stocks with the click of a button. In this challenge, we refactor the code from Module 2 in order for it to run more efficiently, using arrays and nested for loops.
+In this challenge, a VBA script that was used to deliver an analysis of a set of stocks with the click of a button is refactored in order for it to run more efficiently, using arrays and nested for loops.
 
 ## Results
 
-In Module 2, a script was created that would loop through each stock ticker and output its total volume and return for a chosen year (either 2017 or 2018). A "ticker" variable was created which was assigned the value of the current stock ticker, and the total volume of each ticker was initialized to 0.
+A script was created that would loop through each stock ticker and output its total volume and return for a chosen year (either 2017 or 2018). A "ticker" variable was then created and assigned the value of the current stock ticker, and the total volume of each ticker was initialized to 0.
 
 !["ticker" variable in the original code](/Resources/Old_Code_Variables.png)
 
-Nested for loops and if statements were created that would check the value of the "ticker" variable, compare it to the current, previous, or next ticker in the spreadsheet, and increase the current ticker's totalVolume by the corresponding volume. These actions would only take place for items 0 through 11 in the "tickers" array, meaning that as soon as the loop reached the final ticker (VSLR) it would stop. 
+Nested for loops and if statements were created that would check the value of the "ticker" variable, compare it to the current; previous; or next ticker in the spreadsheet, and increase the current ticker's totalVolume by the corresponding volume. These actions would only take place for items 0 through 11 in the "tickers" array, meaning that as soon as the loop reached the final ticker (VSLR) it would stop. 
 
 ![Loops in the original code](/Resources/Old_Code_Loops.png)
 
